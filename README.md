@@ -7,6 +7,7 @@
 * `git log --oneline` - Compact log listing
 * `git branch` - Display branch information
 
+
 ### Basic Commands
 * 'git init' - Initialize a repo in current working directory
 * 'git add .' - Stage current directory for commits
